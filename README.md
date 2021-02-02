@@ -46,6 +46,8 @@ An ALU that can reverse the operation of the basic mathematical operators.
 - Divide in reverse. Again, I am leaving this for you to do. Best of luck, because I can't work it out.
   I assume it is just the inverse of a forwards division. Actually, it better had be the inverse.
 
+![Breadboard](scoobydance.gif)
+
 Satan, or what eh? :D
 
 @author Mario Gianota 19 January 2021 (gianotamario@gmail.com)
