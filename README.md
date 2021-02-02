@@ -33,19 +33,18 @@ An ALU that can reverse the operation of the basic mathematical operators.
  # Project Status: Completed.
  
  ## Wednesday, 20th January 2021
- ##----------------------------
- * - Add works forwards and in reverse.
- * - Subtract works forwards and in reverse.
- * - Multiply works forwards and in reverse.
- * - Divide. Hell, this one is hard. Doesn't work yet.
- *
+ 
+ - Add works forwards and in reverse.
+ - Subtract works forwards and in reverse.
+ - Multiply works forwards and in reverse.
+ - Divide. Hell, this one is hard. Doesn't work yet.
+
  ## Thursday, 21st January 2021
- ##---------------------------
- * - Divide forward works but the output is confusing. The result of a division is given by the
- *      // accumulator and the remainder. Division is problematic and I am going to leave it as
- *      // something for you to work out. I  am not particularly interested in it at the moment.
- * - Divide in reverse. Again, I am leaving this for you to do. Best of luck, because I can't work it out.
- *      // I assume it is just the inverse of a forwards division. Actually, it better had be the inverse.
+ - Divide forward works but the output is confusing. The result of a division is given by the
+   accumulator and the remainder. Division is problematic and I am going to leave it as
+   something for you to work out. I  am not particularly interested in it at the moment.
+- Divide in reverse. Again, I am leaving this for you to do. Best of luck, because I can't work it out.
+  I assume it is just the inverse of a forwards division. Actually, it better had be the inverse.
 
 Satan, or what eh? :D
 
