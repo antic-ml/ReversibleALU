@@ -1,3 +1,8 @@
+# IntelliJ config files
+out/*
+*.iml
+.idea
+
 # Compiled class file
 *.class
 
